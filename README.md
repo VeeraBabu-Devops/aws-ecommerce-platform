@@ -69,7 +69,7 @@ Note: The EC2 and EC2-other cost that you see above is for a different project I
 
 ## Getting Started
 
-1. Proceed to [AWS Deployment](deployment/README.md)
+1. Proceed to [aws-ecommerce-platform](deployment/README.md)
 2. Clean up resources after learning
 
 Happy Learning!
