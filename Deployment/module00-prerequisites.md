@@ -115,4 +115,4 @@ export AWS_DEFAULT_REGION=ap-south-1   # change to your region
 
 ## Next Steps
 
-Proceed to **[Module 1: Networking Foundation](./module01-networking.md)**
+Proceed to **[Module 1: Networking Foundation](./module 1: networking.md)**
