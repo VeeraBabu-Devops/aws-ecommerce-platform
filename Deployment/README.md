@@ -87,4 +87,4 @@ Complete the following deployment modules in order:
 - **Certificate Manager:** us-east-1 (required for CloudFront)
 
 ## Let's get started
-Let's begin with first module **[Module 0: Pre-requisites](./Module 0: Prerequisites.md)**.
+Let's begin with first module **[Module 0: Pre-requisites]Deployment/Module 0: Prerequisites.md)**.
