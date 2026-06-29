@@ -44,8 +44,8 @@ wsl -d <name-of-your-vm>
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/awswithchetan/ecommerce-web-app.git
-cd ecommerce-web-app
+git clone https://github.com/VeeraBabu-Devops/aws-ecommerce-platform.git
+cd aws-ecommerce-platform
 ```
 
 ## Step 2: Install Required Tools (if you don't have it already)
